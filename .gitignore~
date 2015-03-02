@@ -3,9 +3,6 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
-# Built application files
-*.apk
-*.ap_
 # Package Files #
 *.jar
 *.war
